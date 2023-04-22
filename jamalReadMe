@@ -1,0 +1,16 @@
+Youtube Link: https://www.youtube.com/watch?v=4qNwoAAfnk4&ab_channel=WebDevSimplified 
+
+Steps
+- $ npm install 
+- $ node script.js 
+
+To submit code information with multiple lines perform the following:
+1. node multiline.js
+2. Press Enter x 2 to submit
+
+Notes: good start, uses stdin and stdout only so no interface. 
+
+Questions
+1. can this push out code
+2. can this handle context?
+3. can i train this?
